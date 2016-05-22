@@ -1,5 +1,4 @@
 *.bmp
-*/CMakeFiles
 *.cmake
 *.png
 *.doc
